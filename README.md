@@ -1,6 +1,6 @@
 # AppPortfolio
 ***
-This is android project for familirize with android application development.
+This is android project for familiarize with android application development.
 
 ####1.Style for group of resources
 ####2.Rounded Corner Buttons 
