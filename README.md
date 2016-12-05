@@ -11,7 +11,6 @@ This is android project for familirize with android application development.
 ##OUTPUT SCREEN OF APPLICATION
 ![alt tag](https://github.com/vikasdesale/AppPortfolio/blob/master/Screenshots/screena1.png)
 ![alt tag](https://github.com/vikasdesale/AppPortfolio/blob/master/Screenshots/screena2.png)
-![alt tag](https://github.com/vikasdesale/AppPortfolio/blob/master/Screenshots/screena3.png)
 
 ***
 ####Style for group of resources:-
